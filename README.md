@@ -9,7 +9,7 @@ Clean, professional UI with easy-to-read fonts and intuitive layout.
 Error handling: handles invalid city names or API errors gracefully.
 Installation
 Clone the repository
-git clone https://github.com/ibrahimaasim77/weather-app.git
+git clone https://github.com/ibrahimaasim77/weather-app
 cd weather-app
 Create a Python virtual environment (optional but recommended)
 python3 -m venv venv
