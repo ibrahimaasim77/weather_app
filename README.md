@@ -9,7 +9,7 @@ Clean, professional UI with easy-to-read fonts and intuitive layout.
 Error handling: handles invalid city names or API errors gracefully.
 Installation
 Clone the repository
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/ibrahimaasim77/weather-app.git
 cd weather-app
 Create a Python virtual environment (optional but recommended)
 python3 -m venv venv
@@ -41,5 +41,5 @@ Add dark mode for better UX
 Package as a standalone executable using PyInstaller
 Author
 Ibrahim Aasim
-Portfolio / GitHub: [your GitHub link]
+Portfolio / GitHub: https://github.com/ibrahimaasim77
 Python & Tkinter projects | Road to FAANG
